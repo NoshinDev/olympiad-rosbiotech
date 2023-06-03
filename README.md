@@ -7,12 +7,13 @@
 
 <p float="left">
 
-   <a href="https://olymp.rbtu-mgupp.ru/#/" width="128" /><img src="https://sun9-15.userapi.com/impg/3nhQmzaM4Cb7nptDd_4rT9Pi765CUgBpNpU26Q/TIQO-S46CjU.jpg?size=977x317&quality=96&sign=0b12b0a4dd25db8933d1d50e569f519b&type=album" width="128" /></a>
+   <a href="https://olymp.rbtu-mgupp.ru/#/" width="128" /><img src="https://github.com/NoshinDev/olympiad-rosbiotech/blob/main/assets/pvs%20link.png?raw=true" width="128" /></a>
 </p>
 
 # Скриншоты
 <p float="left">
-
+ <img src="https://github.com/NoshinDev/olympiad-rosbiotech/blob/main/assets/main.jpg?raw=true" width="350" />
+ <img src="https://github.com/NoshinDev/olympiad-rosbiotech/blob/main/assets/form.jpg?raw=true" width="350" />
 
  </p>
 
