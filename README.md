@@ -7,7 +7,7 @@
 
 <p float="left">
 
-   <a href="https://olymp.rbtu-mgupp.ru/#/" width="128" /><img src="https://github.com/NoshinDev/olympiad-rosbiotech/blob/main/assets/pvs%20link.png?raw=true" width="128" /></a>
+   <a href="https://olymp.rbtu-mgupp.ru/#/" width="128" /><img src="https://github.com/NoshinDev/olympiad-rosbiotech/blob/main/assets/pvs_link.png?raw=true" width="128" /></a>
 </p>
 
 # Скриншоты
